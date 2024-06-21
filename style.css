@@ -143,7 +143,7 @@ section .main_btn:hover i{
 
 
 
-/*About*/
+/*Cam kết*/
 
 .about{
     width: 100%;
@@ -200,7 +200,7 @@ section .main_btn:hover i{
 
 
 
-/*Menu*/
+/*Thực đơn*/
 
 .menu{
     width: 100%;
@@ -341,7 +341,7 @@ section .main_btn:hover i{
 
 
 
-/*Gallary*/
+/*Món ăn nổi bật*/
 
 .gallary{
     width: 100%;
@@ -429,7 +429,7 @@ section .main_btn:hover i{
     transform: translateY(0);
 }
 
-/*Order*/
+/*Đặt hàng*/
 
 .order{
     width: 100%;
@@ -515,7 +515,7 @@ section .main_btn:hover i{
 
 
 
-/*Team*/
+/*đội ngũ*/
 
 .team{
     width: 100%;
