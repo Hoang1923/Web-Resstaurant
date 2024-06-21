@@ -233,6 +233,7 @@ section .main_btn:hover i{
 
 .menu .menu_box{
     width: 95%;
+    padding-left: 5%;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
